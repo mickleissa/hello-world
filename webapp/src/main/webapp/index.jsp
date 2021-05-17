@@ -1,21 +1,21 @@
-#<!DOCTYPE html>
-#<html>
-#<head>
-#  <title><h1>Mickleissa 2022</h1></title>
-#</head>
-#
-#<body>
-#  <h1>Heading for the content below</h1>
-#  <p>Text text text</p>
-#
-#<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-#<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-#<h2> Glad to see you here </h2>
-#<h1> MICKLEISSA 2021 <h1>
-#<h1>Hello Mickleissa Back</h1>
-#<h2>Hello Devops 2022</h2>
-#</body>
-#</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title><h1>Mickleissa 2022</h1></title>
+</head>
+
+<body>
+  <h1>Heading for the content below</h1>
+  <p>Text text text</p>
+
+<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
+<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
+<h2> Glad to see you here </h2>
+<h1> MICKLEISSA 2021 <h1>
+<h1>Hello Mickleissa Back</h1>
+<h2>Hello Devops 2022</h2>
+</body>
+</html>
 <html>
 <!DOCTYPE html> 
 <html>
