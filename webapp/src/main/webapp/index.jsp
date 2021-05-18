@@ -26,10 +26,10 @@
 <h2> Glad to see you here </h2>
 <h1> MICKLEISSA 2021 <h1>
 <h1>Hello Mickleissa Come Back2024</h1>
-<h2>Hello Devops 2026</h2>
+<h2>Hello Devops 2026 LULU2025/h2>
 
      <div data-role="content">
-          <h1>Hello Oz </h1>
+          <h1>Hello Oz & LULU </h1>
           <p>
           Rock your body...
           </p>
