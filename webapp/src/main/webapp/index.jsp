@@ -19,14 +19,14 @@
      </div>
 
  <h1>Heading for the content below</h1>
-  <p>ADNAN Oz 2022</p>
+  <p>ADNAN Oz 2025</p>
 
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
 <h1> MICKLEISSA 2021 <h1>
 <h1>Hello Mickleissa Come Back2024</h1>
-<h2>Hello Devops 2024</h2>
+<h2>Hello Devops 2026</h2>
 
      <div data-role="content">
           <h1>Hello Oz </h1>
